@@ -8,7 +8,8 @@
 ![Supports Emacs 26-27](https://img.shields.io/badge/Supports-Emacs_26.1_--_27.x-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
 ![Latest commit](https://img.shields.io/github/last-commit/hlissner/doom-emacs/develop?style=flat-square)
 ![Build status: develop](https://img.shields.io/github/workflow/status/hlissner/doom-emacs/CI/develop?style=flat-square)
-[![Discord Server](https://img.shields.io/discord/406534637242810369?color=blue&label=Discord%20Chat&logo=discord&logoColor=white&style=flat-square)][Discord]
+[![Discord Server](https://img.shields.io/discord/406534637242810369?color=blue&label=Discord%20Chat&logo=discord&logoColor=white&style=flat-square)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesarch%2Fdoom-emacs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesarch%2Fdoom-emacs?ref=badge_shield)
+[Discord]
 
 ![Doom Emacs Screenshot](https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/main.png)
 
@@ -252,3 +253,7 @@ kind!
 
 [liberapay]: https://liberapay.com/hlissner/donate
 [paypal]: https://paypal.me/henriklissner/10
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesarch%2Fdoom-emacs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesarch%2Fdoom-emacs?ref=badge_large)
